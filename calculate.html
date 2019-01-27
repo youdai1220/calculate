@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="math.css">
+    <title>計算</title>
+</head>
+<body>
+    <h1>計算問題</h1>
+    <p id="level-select">Level Select</p>
+    <table rules="all" frame="border" border="3" id="select-zone">
+        <tr>
+            <td><button id="level1">Level1　(1けたの繰り上がりがない足し算・引き算)</button></td>
+            <td><button id="level2">Level2　(1けたの足し算・引き算・掛け算)</button></td>
+        </tr>
+        <tr>           
+            <td><button id="level3">Level3　(1けたと2けたの足し算・引き算・掛け算)</button></td>
+            <td><button id="level4">Level4 （2けたの足し算・引き算・掛け算）</button></td>
+        </tr>
+        <tr>
+            <td><button id="level5">Level5 （整数で割り切れる割り算）</button></td>
+            <td><button id="level6">Level6 （四則計算）</button></td>
+        </tr>
+    </table>
+    <div id="question-area"></div>
+    <div id="ans-area"></div>
+    <p><h4>解答欄（先に挑戦するレベルを選択してください。）</h4></p>
+    <table rules="all" frame="border" border="3" id="ans-zone">
+        <tr>
+            <td>(1)</td>
+            <td><input type="text" id="Answer1" size="20" maxlength="10"></td>
+            <td>(2)</td>
+            <td><input type="text" id="Answer2" size="20" maxlength="10"></td>
+            <td>(3)</td>
+            <td><input type="text" id="Answer3" size="20" maxlength="10"></td>
+
+        </tr>
+        <tr>
+            <td>(4)</td>
+            <td><input type="text" id="Answer4" size="20" maxlength="10"></td>
+            <td>(5)</td>
+            <td><input type="text" id="Answer5" size="20" maxlength="10"></td>
+            <td>(6)</td>
+            <td><input type="text" id="Answer6" size="20" maxlength="10"></td>
+
+        </tr>
+        </tr>
+        <tr>
+            <td>(7)</td>
+            <td><input type="text" id="Answer7" size="20" maxlength="10"></td>
+            <td>(8)</td>
+            <td><input type="text" id="Answer8" size="20" maxlength="10"></td>
+            <td>(9)</td>
+            <td><input type="text" id="Answer9" size="20" maxlength="10"></td>
+        </tr>
+        <tr>
+            <td>(10)</td>
+            <td><input type="text" id="Answer10" size="20" maxlength="10"></td>
+            <td colspan="4"><button id="check">答え合わせ</button></td>
+        </tr>
+    </table> 
+    <div id="answer-area"></div>
+    <div id="Answer-area"></div>
+    <script src="math.js"></script>
+</body>
+</html>
