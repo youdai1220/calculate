@@ -1,9 +1,8 @@
 body{
     background-color:#99CC00;
     color:black;
-    width:1050px;
-    margin-right:auto;
-    margin-left:auto;
+    text-align: center;
+    margin: auto;
     font-family:'Century Gothic','游ゴシック';
 }
 #question-area{
@@ -22,12 +21,14 @@ input {
 #ans-zone{
     background-color: aqua;
     color:blue;
+    margin: auto;
 }
 #select-zone{
     width:700px;
-    background-color: chartreuse
+    background-color: chartreuse;
+    margin: auto;
 }
-#level1,#level2,#level3,#level4,#level5,#level6{
+#level1,#level2,#level3,#level4,#level5,#level6,#level7{
     background-color: darkorange;
     border-style:none;
     width:350px;
