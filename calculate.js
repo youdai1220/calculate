@@ -112,19 +112,34 @@ if(test1===true||test2===true||test3===true||test4===true||test5===true){
 var result=0;
 if(parseInt(Answer1)===answer1){
     var result=result+1;
+    document.getElementById('Answer1').style.backgroundColor='skyblue';
+ }else{
+    document.getElementById('Answer1').style.backgroundColor='orange';
  };
  if(parseInt(Answer2)===answer2){
     var result=result+1;
+    document.getElementById('Answer2').style.backgroundColor='skyblue';
+ }else{
+    document.getElementById('Answer2').style.backgroundColor='orange';
  };
  if(parseInt(Answer3)===answer3){
     var result=result+1;
- };
+    document.getElementById('Answer3').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer3').style.backgroundColor='orange';
+};
  if(parseInt(Answer4)===answer4){
     var result=result+1;
- };
+    document.getElementById('Answer4').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer4').style.backgroundColor='orange';
+};
  if(parseInt(Answer5)===answer5){
     var result=result+1;
- };
+    document.getElementById('Answer5').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer5').style.backgroundColor='orange';
+};
 
  console.log(result);
 
@@ -264,34 +279,64 @@ if(test1===true||test2===true||test3===true||test4===true||test5===true||test6==
 var result=0;
 if(parseInt(Answer1)===answer1){
     var result=result+1;
+    document.getElementById('Answer1').style.backgroundColor='skyblue';
+ }else{
+    document.getElementById('Answer1').style.backgroundColor='orange';
  };
  if(parseInt(Answer2)===answer2){
     var result=result+1;
+    document.getElementById('Answer2').style.backgroundColor='skyblue';
+ }else{
+    document.getElementById('Answer2').style.backgroundColor='orange';
  };
  if(parseInt(Answer3)===answer3){
     var result=result+1;
- };
+    document.getElementById('Answer3').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer3').style.backgroundColor='orange';
+};
  if(parseInt(Answer4)===answer4){
     var result=result+1;
- };
+    document.getElementById('Answer4').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer4').style.backgroundColor='orange';
+};
  if(parseInt(Answer5)===answer5){
     var result=result+1;
- };
+    document.getElementById('Answer5').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer5').style.backgroundColor='orange';
+};
  if(parseInt(Answer6)===answer6){
     var result=result+1;
- };
+    document.getElementById('Answer6').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer6').style.backgroundColor='orange';
+};
  if(parseInt(Answer7)===answer7){
     var result=result+1;
- };
+    document.getElementById('Answer7').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer7').style.backgroundColor='orange';
+};
  if(parseInt(Answer8)===answer8){
     var result=result+1;
- };
+    document.getElementById('Answer8').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer8').style.backgroundColor='orange';
+};
  if(parseInt(Answer9)===answer9){
     var result=result+1;
- };
+    document.getElementById('Answer9').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer9').style.backgroundColor='orange';
+};
  if(parseInt(Answer10)===answer10){
     var result=result+1;
- };
+    document.getElementById('Answer10').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer10').style.backgroundColor='orange';
+};
  console.log(result);
 
  if(result<7){
@@ -431,34 +476,64 @@ if(test1===true||test2===true||test3===true||test4===true||test5===true||test6==
 var result=0;
 if(parseInt(Answer1)===answer1){
     var result=result+1;
+    document.getElementById('Answer1').style.backgroundColor='skyblue';
+ }else{
+    document.getElementById('Answer1').style.backgroundColor='orange';
  };
  if(parseInt(Answer2)===answer2){
     var result=result+1;
+    document.getElementById('Answer2').style.backgroundColor='skyblue';
+ }else{
+    document.getElementById('Answer2').style.backgroundColor='orange';
  };
  if(parseInt(Answer3)===answer3){
     var result=result+1;
- };
+    document.getElementById('Answer3').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer3').style.backgroundColor='orange';
+};
  if(parseInt(Answer4)===answer4){
     var result=result+1;
- };
+    document.getElementById('Answer4').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer4').style.backgroundColor='orange';
+};
  if(parseInt(Answer5)===answer5){
     var result=result+1;
- };
+    document.getElementById('Answer5').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer5').style.backgroundColor='orange';
+};
  if(parseInt(Answer6)===answer6){
     var result=result+1;
- };
+    document.getElementById('Answer6').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer6').style.backgroundColor='orange';
+};
  if(parseInt(Answer7)===answer7){
     var result=result+1;
- };
+    document.getElementById('Answer7').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer7').style.backgroundColor='orange';
+};
  if(parseInt(Answer8)===answer8){
     var result=result+1;
- };
+    document.getElementById('Answer8').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer8').style.backgroundColor='orange';
+};
  if(parseInt(Answer9)===answer9){
     var result=result+1;
- };
+    document.getElementById('Answer9').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer9').style.backgroundColor='orange';
+};
  if(parseInt(Answer10)===answer10){
     var result=result+1;
- };
+    document.getElementById('Answer10').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer10').style.backgroundColor='orange';
+};
  console.log(result);
 
  if(result<7){
@@ -597,34 +672,64 @@ if(test1===true||test2===true||test3===true||test4===true||test5===true||test6==
 var result=0;
 if(parseInt(Answer1)===answer1){
     var result=result+1;
+    document.getElementById('Answer1').style.backgroundColor='skyblue';
+ }else{
+    document.getElementById('Answer1').style.backgroundColor='orange';
  };
  if(parseInt(Answer2)===answer2){
     var result=result+1;
+    document.getElementById('Answer2').style.backgroundColor='skyblue';
+ }else{
+    document.getElementById('Answer2').style.backgroundColor='orange';
  };
  if(parseInt(Answer3)===answer3){
     var result=result+1;
- };
+    document.getElementById('Answer3').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer3').style.backgroundColor='orange';
+};
  if(parseInt(Answer4)===answer4){
     var result=result+1;
- };
+    document.getElementById('Answer4').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer4').style.backgroundColor='orange';
+};
  if(parseInt(Answer5)===answer5){
     var result=result+1;
- };
+    document.getElementById('Answer5').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer5').style.backgroundColor='orange';
+};
  if(parseInt(Answer6)===answer6){
     var result=result+1;
- };
+    document.getElementById('Answer6').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer6').style.backgroundColor='orange';
+};
  if(parseInt(Answer7)===answer7){
     var result=result+1;
- };
+    document.getElementById('Answer7').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer7').style.backgroundColor='orange';
+};
  if(parseInt(Answer8)===answer8){
     var result=result+1;
- };
+    document.getElementById('Answer8').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer8').style.backgroundColor='orange';
+};
  if(parseInt(Answer9)===answer9){
     var result=result+1;
- };
+    document.getElementById('Answer9').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer9').style.backgroundColor='orange';
+};
  if(parseInt(Answer10)===answer10){
     var result=result+1;
- };
+    document.getElementById('Answer10').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer10').style.backgroundColor='orange';
+};
  console.log(result);
 
  if(result<7){
@@ -758,34 +863,64 @@ if(test1===true||test2===true||test3===true||test4===true||test5===true||test6==
 var result=0;
 if(parseInt(Answer1)===answer1){
     var result=result+1;
+    document.getElementById('Answer1').style.backgroundColor='skyblue';
+ }else{
+    document.getElementById('Answer1').style.backgroundColor='orange';
  };
  if(parseInt(Answer2)===answer2){
     var result=result+1;
+    document.getElementById('Answer2').style.backgroundColor='skyblue';
+ }else{
+    document.getElementById('Answer2').style.backgroundColor='orange';
  };
  if(parseInt(Answer3)===answer3){
     var result=result+1;
- };
+    document.getElementById('Answer3').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer3').style.backgroundColor='orange';
+};
  if(parseInt(Answer4)===answer4){
     var result=result+1;
- };
+    document.getElementById('Answer4').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer4').style.backgroundColor='orange';
+};
  if(parseInt(Answer5)===answer5){
     var result=result+1;
- };
+    document.getElementById('Answer5').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer5').style.backgroundColor='orange';
+};
  if(parseInt(Answer6)===answer6){
     var result=result+1;
- };
+    document.getElementById('Answer6').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer6').style.backgroundColor='orange';
+};
  if(parseInt(Answer7)===answer7){
     var result=result+1;
- };
+    document.getElementById('Answer7').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer7').style.backgroundColor='orange';
+};
  if(parseInt(Answer8)===answer8){
     var result=result+1;
- };
+    document.getElementById('Answer8').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer8').style.backgroundColor='orange';
+};
  if(parseInt(Answer9)===answer9){
     var result=result+1;
- };
+    document.getElementById('Answer9').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer9').style.backgroundColor='orange';
+};
  if(parseInt(Answer10)===answer10){
     var result=result+1;
- };
+    document.getElementById('Answer10').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer10').style.backgroundColor='orange';
+};
  console.log(result);
 
  if(result<7){
@@ -919,22 +1054,40 @@ if(test1===true||test2===true||test3===true||test4===true||test5===true||test6==
 var result=0;
 if(parseInt(Answer1)===answer1){
     var result=result+1;
+    document.getElementById('Answer1').style.backgroundColor='skyblue';
+ }else{
+    document.getElementById('Answer1').style.backgroundColor='orange';
  };
  if(parseInt(Answer2)===answer2){
     var result=result+1;
+    document.getElementById('Answer2').style.backgroundColor='skyblue';
+ }else{
+    document.getElementById('Answer2').style.backgroundColor='orange';
  };
  if(parseInt(Answer3)===answer3){
     var result=result+1;
- };
+    document.getElementById('Answer3').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer3').style.backgroundColor='orange';
+};
  if(parseInt(Answer4)===answer4){
     var result=result+1;
- };
+    document.getElementById('Answer4').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer4').style.backgroundColor='orange';
+};
  if(parseInt(Answer5)===answer5){
     var result=result+1;
- };
+    document.getElementById('Answer5').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer5').style.backgroundColor='orange';
+};
  if(parseInt(Answer6)===answer6){
     var result=result+1;
- };
+    document.getElementById('Answer6').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer6').style.backgroundColor='orange';
+};
 
  console.log(result);
 
@@ -1088,34 +1241,64 @@ if(test1===true||test2===true||test3===true||test4===true||test5===true||test6==
 var result=0;
 if(parseInt(Answer1)===answer1){
     var result=result+1;
+    document.getElementById('Answer1').style.backgroundColor='skyblue';
+ }else{
+    document.getElementById('Answer1').style.backgroundColor='orange';
  };
  if(parseInt(Answer2)===answer2){
     var result=result+1;
+    document.getElementById('Answer2').style.backgroundColor='skyblue';
+ }else{
+    document.getElementById('Answer2').style.backgroundColor='orange';
  };
  if(parseInt(Answer3)===answer3){
     var result=result+1;
- };
+    document.getElementById('Answer3').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer3').style.backgroundColor='orange';
+};
  if(parseInt(Answer4)===answer4){
     var result=result+1;
- };
+    document.getElementById('Answer4').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer4').style.backgroundColor='orange';
+};
  if(parseInt(Answer5)===answer5){
     var result=result+1;
- };
+    document.getElementById('Answer5').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer5').style.backgroundColor='orange';
+};
  if(parseInt(Answer6)===answer6){
     var result=result+1;
- };
+    document.getElementById('Answer6').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer6').style.backgroundColor='orange';
+};
  if(parseInt(Answer7)===answer7){
     var result=result+1;
- };
+    document.getElementById('Answer7').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer7').style.backgroundColor='orange';
+};
  if(parseInt(Answer8)===answer8){
     var result=result+1;
- };
+    document.getElementById('Answer8').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer8').style.backgroundColor='orange';
+};
  if(parseInt(Answer9)===answer9){
     var result=result+1;
- };
+    document.getElementById('Answer9').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer9').style.backgroundColor='orange';
+};
  if(parseInt(Answer10)===answer10){
     var result=result+1;
- };
+    document.getElementById('Answer10').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer10').style.backgroundColor='orange';
+};
  console.log(result);
 
  if(result<7){
@@ -1264,23 +1447,40 @@ if(test1===true||test2===true||test3===true||test4===true||test5===true||test6==
 var result=0;
 if(parseInt(Answer1)===answer1){
     var result=result+1;
+    document.getElementById('Answer1').style.backgroundColor='skyblue';
+ }else{
+    document.getElementById('Answer1').style.backgroundColor='orange';
  };
  if(parseInt(Answer2)===answer2){
     var result=result+1;
+    document.getElementById('Answer2').style.backgroundColor='skyblue';
+ }else{
+    document.getElementById('Answer2').style.backgroundColor='orange';
  };
  if(parseInt(Answer3)===answer3){
     var result=result+1;
- };
+    document.getElementById('Answer3').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer3').style.backgroundColor='orange';
+};
  if(parseInt(Answer4)===answer4){
     var result=result+1;
- };
+    document.getElementById('Answer4').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer4').style.backgroundColor='orange';
+};
  if(parseInt(Answer5)===answer5){
     var result=result+1;
- };
+    document.getElementById('Answer5').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer5').style.backgroundColor='orange';
+};
  if(parseInt(Answer6)===answer6){
     var result=result+1;
- };
-
+    document.getElementById('Answer6').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer6').style.backgroundColor='orange';
+};
  if(result<4){
      var Result='ans問正解です。もっと計算力をつけましょう。';
  }else if(result>3&&result<6){
@@ -1422,28 +1622,52 @@ if(test1===true||test2===true||test3===true||test4===true||test5===true||test6==
 var result=0;
 if(eval(Answer1)===answer1){
     var result=result+1;
+    document.getElementById('Answer1').style.backgroundColor='skyblue';
+ }else{
+    document.getElementById('Answer1').style.backgroundColor='orange';
  };
  if(eval(Answer2)===answer2){
     var result=result+1;
+    document.getElementById('Answer2').style.backgroundColor='skyblue';
+ }else{
+    document.getElementById('Answer2').style.backgroundColor='orange';
  };
  if(eval(Answer3)===answer3){
     var result=result+1;
- };
+    document.getElementById('Answer3').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer3').style.backgroundColor='orange';
+};
  if(eval(Answer4)===answer4){
     var result=result+1;
- };
+    document.getElementById('Answer4').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer4').style.backgroundColor='orange';
+};
  if(eval(Answer5)===answer5){
     var result=result+1;
- };
+    document.getElementById('Answer5').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer5').style.backgroundColor='orange';
+};
  if(eval(Answer6)===answer6){
     var result=result+1;
- };
+    document.getElementById('Answer6').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer6').style.backgroundColor='orange';
+};
  if(eval(Answer7)===answer7){
     var result=result+1;
- };
+    document.getElementById('Answer7').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer7').style.backgroundColor='orange';
+};
  if(eval(Answer8)===answer8){
     var result=result+1;
- };
+    document.getElementById('Answer8').style.backgroundColor='skyblue';
+}else{
+   document.getElementById('Answer8').style.backgroundColor='orange';
+};
  
  console.log(result);
 
