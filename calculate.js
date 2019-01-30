@@ -1420,28 +1420,28 @@ if(test1===true||test2===true||test3===true||test4===true||test5===true||test6==
     return;
 };
 var result=0;
-if(parseInt(Answer1)===answer1){
+if(eval(Answer1)===answer1){
     var result=result+1;
  };
- if(parseInt(Answer2)===answer2){
+ if(eval(Answer2)===answer2){
     var result=result+1;
  };
- if(parseInt(Answer3)===answer3){
+ if(eval(Answer3)===answer3){
     var result=result+1;
  };
- if(parseInt(Answer4)===answer4){
+ if(eval(Answer4)===answer4){
     var result=result+1;
  };
- if(parseInt(Answer5)===answer5){
+ if(eval(Answer5)===answer5){
     var result=result+1;
  };
- if(parseInt(Answer6)===answer6){
+ if(eval(Answer6)===answer6){
     var result=result+1;
  };
- if(parseInt(Answer7)===answer7){
+ if(eval(Answer7)===answer7){
     var result=result+1;
  };
- if(parseInt(Answer8)===answer8){
+ if(eval(Answer8)===answer8){
     var result=result+1;
  };
  
