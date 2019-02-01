@@ -9,13 +9,18 @@ body{
     background-color: orange;
     font-size:110%;
 }
-#check{
-    width:397px;
+#check,#textreset{
+    width:198px;
     height:26px;
-    background-color:orangered;
     border-style:none;
 }
-input {
+#check{
+    background-color:orangered;
+}
+#textreset{
+    background-color:yellowgreen;
+}
+input{
     height: 20px;
 }
 #ans-zone{
@@ -37,3 +42,9 @@ input {
 #level-select{
     font-size:120%;
 }
+#reset{
+    background-color: red;
+    border-style:none;
+    width:350px;
+    height:30px;
+};
