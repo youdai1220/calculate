@@ -15,8 +15,7 @@
     resetButton.onclick=()=>{
         if (confirm('このページの内容をリセットしてもいいですか？')){
             removeAllChildren(questionDivided);
-            removeAllChildren(answerDivided);
-            removeAllChildren(AnswerDivided);  
+            removeAllChildren(answerDivided); 
             textresetButton.onclick();
         };
     };//resetButton.onclick
